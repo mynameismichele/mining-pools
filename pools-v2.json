@@ -1802,5 +1802,14 @@
     ],
     "tags": ["/Est3lar/", "est3lar", "Est3lar", "EST3LAR"],
     "link": "https://est3lar.io"
+  },
+  {
+    "id": 168,
+    "name": "z-node",
+    "addresses": [
+      "tb1qxz342qaazja0tqdw8f3fnlg7fccsl96k0kesrk"
+    ],
+    "tags": ["z-node", "znode"],
+    "link": "https://x.com/zed_node"
   }
 ]
